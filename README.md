@@ -1,4 +1,4 @@
-# casebook
+# Readme
 
 This is a casebook folder containing several casebooks from top business school.
 
